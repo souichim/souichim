@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋> Hello 
+山口県に住む中学生です。<br/>
+静的型付き言語がめっちゃ好きです
 
-<!--
-**souichim/souichim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=souichim&show_icons=true&theme=radical)
+### 一応できる言語
+> [!NOTE]  
+> Python・C#は触ってない時期が1年ほどあったのであまり詳しくないです
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,py,js,ts,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 勉強したい言語
+[![Lang](https://skillicons.dev/icons?i=java,spring,go,rust,nim,kotlin,dart)](https://skillicons.dev)
